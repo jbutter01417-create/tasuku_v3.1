@@ -1,4 +1,4 @@
-const CRYSTALS_TO_COMPLETE = 5;
+const CRYSTALS_TO_COMPLETE = 3;
 
 // Utility function
 const generateId = () => Math.random().toString(36).substr(2, 9);
